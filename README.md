@@ -2,7 +2,7 @@
 
 i’m a creative technologist and head of the interactive studio @ [loop online](https://loop.online/).
 
-i started out as a music producer before diving into everything from TV to tech. now, i focus on making interactive experiences, stunts, games, apps, hardware, and TV for the internet. here’s a list:
+i started out as a hip hop producer before getting my hands on everything from TV to tech. now, i focus on making interactive experiences, stunts, games, apps, hardware, and TV for the internet. here’s a list:
 
 - [HQ Trivia](https://www.youtube.com/watch?v=kqoJH_zBqrw)
 - the first [streetwear designed by TikTok live chat](https://loop.online/work/spk)
