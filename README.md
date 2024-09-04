@@ -1,6 +1,6 @@
 ## 🌎 hello world, i'm rob
 
-i’m a creative technologist and head of the interactive studio @ loop online.
+i’m a creative technologist and head of the interactive studio @ [loop online](https://loop.online/).
 
 i started out as a music producer before diving into everything from TV to tech. now, i focus on making interactive experiences, stunts, games, apps, hardware, and TV for the internet. here’s a list:
 
