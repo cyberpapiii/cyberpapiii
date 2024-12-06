@@ -4,8 +4,8 @@ i’m a creative technologist and head of the interactive studio @ [loop online]
 
 i started out as a hip hop producer before getting my hands on everything from TV to tech. now, i focus on making interactive experiences, stunts, games, apps, hardware, and TV for the internet. here’s a few:
 
-- 🙂 world's first [smile activated movie scene](https://variety.com/2024/film/news/smile-2-watch-online-smile-to-watch-1236200152/)
 - 📱 [HQ Trivia](https://www.youtube.com/watch?v=kqoJH_zBqrw)
+- - 🙂 world's first [smile activated movie scene](https://variety.com/2024/film/news/smile-2-watch-online-smile-to-watch-1236200152/)
 - 👟 the first [streetwear designed by TikTok live chat](https://loop.online/work/spk)
 - 🖼️ this [NFT auction house](https://loop.online/work/pleasrhouse) featuring Edward Snowden
 - 💵 a [Price Is Right-style interactive game show](https://loop.online/work/whatnot) for the Whatnot app
